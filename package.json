@@ -1,0 +1,19 @@
+{
+  "name": "final-project-lingardium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kodluyoruz-NodeJs-Bootcamp/final-project-lingardium.git"
+  },
+  "author": "Ahmet Can Karataş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kodluyoruz-NodeJs-Bootcamp/final-project-lingardium/issues"
+  },
+  "homepage": "https://github.com/Kodluyoruz-NodeJs-Bootcamp/final-project-lingardium#readme"
+}
