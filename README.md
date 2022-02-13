@@ -36,6 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - Install [Node.js](https://nodejs.org/en/)
+- Install [nodemon](https://www.npmjs.com/package/nodemon)
 
 ### Installation
 
@@ -56,7 +57,7 @@ npm install
 
 - create .env file like .env.example
 
-------------IMPORTANT!!------------ 
+------------IMPORTANT!!------------
 
 I shared the ".env" file so that you can run and test the project on local
 
