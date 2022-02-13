@@ -8,7 +8,7 @@ This project was created for Patika.dev Gusto&RemoteTeam sponsored NodeJs Bootca
 
 Created by <a href='https://github.com/lingardium'>Ahmet Can Karataş</a>
 
-LiveURL: http://leviosa-movie.herokuapp.com/
+LiveURL: https://leviosa-movie.herokuapp.com/
 
 ## **🔎 Technologies**
 
@@ -55,6 +55,10 @@ npm install
 ```
 
 - create .env file like .env.example
+
+------------IMPORTANT!!------------ 
+
+I shared the ".env" file so that you can run and test the project on local
 
 ```env
 TOKEN_SECRET =

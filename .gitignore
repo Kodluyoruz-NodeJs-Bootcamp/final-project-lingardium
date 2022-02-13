@@ -69,7 +69,8 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# I shared the ".env" file so that you can run and test the project on local
+#.env
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
